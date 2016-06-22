@@ -22,6 +22,7 @@ bin/
 log/
 classes/
 META-INF/
+build/
 
 # Misc.
 .DS_Store
